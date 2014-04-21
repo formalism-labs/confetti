@@ -1,0 +1,4 @@
+confetti
+========
+
+Configuration management system
